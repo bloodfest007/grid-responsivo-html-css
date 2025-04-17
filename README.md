@@ -14,7 +14,8 @@ Practicar componentes visuales reutilizables y diseño moderno responsivo para p
 
 ## 📷 Captura de pantalla
 
-_(Puedes subir una imagen en el repo luego y enlazarla aquí)_
+
+
 
 ## ✨ Autor
 
